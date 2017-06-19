@@ -1,0 +1,2 @@
+# dotgit
+Git config
