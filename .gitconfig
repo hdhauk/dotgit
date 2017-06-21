@@ -18,3 +18,5 @@
 	a = add
 	pl = pull
 	ph = push
+[push]
+	default = simple
